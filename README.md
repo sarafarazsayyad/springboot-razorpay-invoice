@@ -43,18 +43,3 @@ Body → JSON
   "state": "Maharashtra",
   "country": "India",
   "amount": 50
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🧰 Step 2: Start Your Spring Boot Application
