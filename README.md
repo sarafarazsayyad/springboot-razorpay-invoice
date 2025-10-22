@@ -45,6 +45,19 @@ Body → JSON
   "amount": 500
 }
 
+{
+  "name": "Sarfaraz sayyad ",
+  "phone": "1231245430",
+  "email": "xyz10@example.com",
+  "line1": "123 Main Street",
+  "line2": "Near Park",
+  "zipcode": "400001",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "amount": 500
+}
+
 🧰 Step 2: Start Your Spring Boot Application
 
 Your webhook endpoint will now be live at:
@@ -400,4 +413,3 @@ In Postman, send another JSON to test failure:
 
 
 ✅ Now status should change to FAILED
-
