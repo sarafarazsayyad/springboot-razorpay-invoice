@@ -47,14 +47,4 @@ Body → JSON
 
 
 
-
-
-
-
-
-
-
-
-
-
 🧰 Step 2: Start Your Spring Boot Application
