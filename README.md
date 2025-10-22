@@ -1,8 +1,8 @@
-# springboot-razorpay-invoice
-This project is built using **Spring Boot** and **MySQL** to manage invoice creation and customer details.  It is designed to be extended in the future for **online payment integration** using **Razorpay REST APIs**.
 # Spring Boot Razorpay Invoice Integration
 
-A Spring Boot REST API project that creates Razorpay invoices and stores payment details in MySQL.
+This project is built using **Spring Boot** and **MySQL** to manage invoice creation and customer details.  It is designed to be extended in the future for **online payment integration** using **Razorpay REST APIs**.
+
+
 
 ## 🚀 Features
 - Create Razorpay invoice with customer details
