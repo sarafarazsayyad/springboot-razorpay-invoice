@@ -1,0 +1,5 @@
+com\Payments\examples\entity\Invoice.class
+com\Payments\examples\service\PaymentService.class
+com\Payments\examples\ExamplesApplication.class
+com\Payments\examples\repository\PaymentRepository.class
+com\Payments\examples\controller\PaymentController.class
