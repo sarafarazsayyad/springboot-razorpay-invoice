@@ -42,10 +42,19 @@ Body → JSON
   "city": "Mumbai",
   "state": "Maharashtra",
   "country": "India",
-  "amount": 500
-}
+  "amount": 50
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+🧰 Step 2: Start Your Spring Boot Application
