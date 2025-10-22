@@ -45,18 +45,6 @@ Body → JSON
   "amount": 500
 }
 
-{
-  "name": "Sarfaraz sayyad ",
-  "phone": "1231245430",
-  "email": "xyz10@example.com",
-  "line1": "123 Main Street",
-  "line2": "Near Park",
-  "zipcode": "400001",
-  "city": "Mumbai",
-  "state": "Maharashtra",
-  "country": "India",
-  "amount": 500
-}
 
 
 
